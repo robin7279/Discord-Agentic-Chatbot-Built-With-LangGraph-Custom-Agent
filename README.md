@@ -28,7 +28,7 @@ A powerful, modular, and intelligent Discord chatbot powered by [LangGraph](http
 - [discord.py](https://github.com/Rapptz/discord.py)
 - [Whisper](https://github.com/openai/whisper) (for voice input)
 - [Groq Cloud](https://console.groq.com/) (for hosted LLM inference)
-- Groq LLMs
+- TavilySearch (https://tavily.com/) 
 - Custom tools and agents
 
 ---
