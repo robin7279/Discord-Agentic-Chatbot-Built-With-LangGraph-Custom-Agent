@@ -1,0 +1,8 @@
+discord.py
+python-dotenv
+langchain-groq
+langchain-community
+langgraph
+tavily-python
+langchain-tavily
+langgraph-checkpoint-sqlite
