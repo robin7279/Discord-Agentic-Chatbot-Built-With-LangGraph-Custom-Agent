@@ -59,5 +59,11 @@ python bot.py
 
 
 
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software with proper attribution
 
 
